@@ -1,7 +1,7 @@
 # TicTacToe-OOP
 
 I built this game to improve my OOP skills. I had help from my teacher during the implementation process of this game, but this time
-I found it much easier to understand the relationship between classes because I had previous experience with the DiceGame project. Building the logic
+I found it much easier to understand the relationship between classes because I had previous experience with the [DiceGame project](https://github.com/Dragos20Tech/DiceGame-OOP). Building the logic
 of the game wasn't as difficult as I thought it would be after hours of trial and error.
 
 ## Play the game
